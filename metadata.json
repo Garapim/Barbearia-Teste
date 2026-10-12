@@ -1,0 +1,6 @@
+{
+  "name": "Cavalheiro Barber Club - Agendamento & Barbearia",
+  "description": "Aplicativo completo de agendamento para barbearia com escolha de barbeiro, horários em tempo real, login de cliente e pagamento integrado via Pix e Cartão.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
